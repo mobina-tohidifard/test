@@ -97,4 +97,5 @@ font-size: 14px;
 }
 .box-1{
     box-shadow: 5px 2px 2px red;
+    text-shadow: 0 0 1px peru;
 }
