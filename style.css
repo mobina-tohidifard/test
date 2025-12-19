@@ -95,3 +95,6 @@ height: 15px;
 font-size: 14px;
   color: #455A64;
 }
+.box-1{
+    box-shadow: 5px 2px 2px red;
+}
