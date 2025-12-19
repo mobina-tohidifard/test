@@ -38,3 +38,60 @@ button{
     padding: 8px 10px;
      font-family: "Shabnam";
 }
+.row{
+    margin-top: 20px;
+    display: flex;
+    gap:15px;
+}
+.box-1{
+ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+ padding: 25px;
+ border-radius: 5px;
+}
+.image{
+    display: inline-block;
+    height: 200px;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: #455A64;
+}
+.off{
+    margin-top: 20px;
+    font-size: 14px;
+}
+.percent{
+    display: inline-block;
+    color: #1976D2;
+    background-color: #B3E5FC;
+    border-radius: 5px;
+    padding: 2px 4px; 
+    font-weight: bold;
+}
+.old-price{
+    color:#90A4AE;
+    text-decoration: line-through;
+    margin-right: 5px;
+}
+ .range{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.star{
+    display: flex;
+    align-items: center;
+}
+.star-icon{
+width: 15px;
+height: 15px;
+margin-right: 10px;
+}
+.star-range{
+width: 15px;
+height: 15px;
+font-size: 14px;
+  color: #455A64;
+}
